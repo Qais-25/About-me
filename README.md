@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qais-25
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently studying Computer Science at WITS University
+- 🌱 I’m currently doing my First Year Computer Science at WITS University
 
 
 
